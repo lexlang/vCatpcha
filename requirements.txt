@@ -1,0 +1,4 @@
+keras-segmentation==0.3.0
+Keras==2.4.3
+tensorflow==2.2.0
+flask==1.1.2
