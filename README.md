@@ -11,5 +11,5 @@ python WebSever.py
 ```
 * 58同城[模型](https://pan.baidu.com/s/1hHitXMfJkbrlB0Soib5PAg)提取码y5qx
 ### 58同城对比照片
-![识别前](https://github.com/lexlang/vCatpcha/blob/main/img/2.png)
-![识别后](https://github.com/lexlang/vCatpcha/blob/main/img/3.png)
+![识别前](https://github.com/lexlang/vCatpcha/raw/master/img/2.png)
+![识别后](https://github.com/lexlang/vCatpcha/raw/master/img/3.png)
